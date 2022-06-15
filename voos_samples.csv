@@ -1,0 +1,10 @@
+codigo_voo, nome_voo, horario, origem,duracao, destino, 2
+1,Voo A,10h00,LAX,1,SP,-1
+2,Voo B,10h30,JFK,2,SP,2
+3,Voo C,11h00,HNL,3,SP,-3
+4,Voo D,11h30,DFW,4,SP,4
+5,Voo E,12h00,OGG,5,MG,-5
+6,Voo F,12h30,DFW,6,MG,6
+7,Voo G,13h00,LAX,7,RJ,-7
+8,Voo H,13h30,LAX,8,RJ,8
+9,Voo I,14h00,LAX,9,BA,9
